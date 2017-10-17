@@ -1,0 +1,97 @@
+.casa.caja{
+	width: 1000px;
+	height:500px;
+	position: relative;
+	margin: 0 auto;
+	background-color: #000080;
+}
+.pasto{
+   background-color: green;
+   height: 30px;
+   width:  1000px;
+   position: relative;
+   top:400px;
+
+}
+.base{
+	background-color: red;
+	height: 200px;
+	width: 400px;
+	position:absolute;
+	left:500px;
+	top:209px;
+}
+.techo{
+	height: 100px;
+	width: 450px;
+	position:absolute;
+	left:445px;
+	border-left: 30px solid transparent;
+	border-right: 30px solid transparent;
+	border-bottom: 100px solid black; 
+}
+.ventana1{
+	background-color: grey;
+    height: 70px;
+    width:  70px;
+    position: absolute;
+    left: 525px;
+    top: 280px;
+}
+.ventana2{
+	background-color: grey;
+    height: 70px;
+    width:  70px;
+    position: absolute;
+    left: 805px;
+    top: 280px;
+}
+.puerta{
+    background-color: yellow;
+    height: 100px;
+    width:  70px;
+    position: absolute;
+    left: 668px;
+    top: 309px;
+}
+.chimenea{
+    background-color: orange;
+    height: 70px;
+    width:  65px;
+    position: absolute;
+    left: 830px;
+    top: 95px;
+}
+.humo1{
+    background-color: #696969;
+    height: 50px;
+    width:  50px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    position: absolute;
+    left: 850px;
+}
+.humo2{
+	background-color: #778899;
+    height: 45px;
+    width:  45px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    position: absolute;
+    left: 870px;
+    top: 20px;
+}
+.humo3{
+	background-color: #D3D3D3;
+    height: 35px;
+    width:  35px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    position: absolute;
+    left: 890px;
+    top: 10px;
+
+}
